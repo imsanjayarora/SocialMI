@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323020232830",
+    "project_id": "socialmi-31bbf",
+    "storage_bucket": "socialmi-31bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323020232830:android:da05604ec16cf41c90a02f",
+        "android_client_info": {
+          "package_name": "com.example.socialmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323020232830-c6da4fsucnk3su5cn6uqk5j578b8qou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-9kPsHWiBkxibUyWb0jD5XbTR12efEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323020232830-c6da4fsucnk3su5cn6uqk5j578b8qou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
